@@ -9,8 +9,8 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-1. Identificación y distribución espacial de las hormigas por nidos?
-2. ¿Cuál es la distancia que hay de un nido a otro?
-3. ¿Cuál es la ausencia y presencia de humanos en los poligonos?
-4. ¿Cuál es la temperatura en cada uno de los poligonos?
-5. ¿Influye en término de ausencia/presencia el flujo de agua contaminada a las poblaciones de hormigas?
+1. Identificación y distribución espacial de las hormigas por nidos.
+2. ¿Cuál es la distancia que hay de un nido a otro?.
+3. ¿Cuál es la ausencia y presencia de humanos en los poligonos?.
+4. ¿Cuál es la temperatura en cada uno de los poligonos?.
+5. ¿Influye en término de ausencia/presencia el flujo de agua contaminada a las poblaciones de hormigas?.
